@@ -1,5 +1,5 @@
-<<h1 align="left">:wave: Hello there! I'm Shahinda Gamal</h1>
-<h3 align="left">Computer Engineering Student @ Ain Shams University | Full-Stack Developer | Competitive Programmer</h3>
+<h1 align="left">:wave: Hello there! I'm Shahinda Gamal</h1>
+<h3 align="left">Computer Engineering Student @ Ain Shams University | Frontend Developer | Robotics Enthusiast | Competitive Programmer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shahy23&label=Profile%20views&color=0e75b6&style=flat" alt="shahy23" />
@@ -9,11 +9,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shahy23&show_icons=true&theme=tokyonight" alt="Shahinda's GitHub Stats" align="right" width="400" />
 
 - :mortar_board: &nbsp;Studying **Computer Engineering** at **Ain Shams University**
+- :robot: &nbsp;Passionate about **Robotics** and building autonomous systems
 - :code: &nbsp;I’m currently practicing on **Codeforces** to sharpen my problem-solving skills
-- :web: &nbsp;Working on **Full-stack Web Development** (HTML, CSS, JS, Node.js/Java)
+- :web: &nbsp;Working on **Frontend Web Development** (HTML, CSS, JS, React.js)
+- :snake: &nbsp;Experienced in **Python** for automation and problem solving
 - :gear: &nbsp;Interested in **Low-level programming**, **MIPS architecture**, and **Microcontrollers**
-- :projects: &nbsp;Check out my **Dental Clinic System** and **CPU Scheduler** projects
-- :mailbox: &nbsp;Reach out to me on **[LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/shahinda-gamal-576308215?utm_source=share_via&utm_content=profile&utm_medium=member_android))**
+- :mailbox: &nbsp;Reach out to me on **[LinkedIn](https://www.linkedin.com/in/shahinda-gamal-576308215)**
 
 <br>
 
@@ -32,24 +33,24 @@
       <br>Java
     </td>
     <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
+      <br>Arduino
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
   </tr>
 </table>
@@ -62,17 +63,4 @@
 
 <p align="center">
   <i>"Clean code always looks like it was written by someone who cares."</i>
-</p>!--
-**shahy23/shahy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
