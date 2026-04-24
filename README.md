@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <<h1 align="left">:wave: Hello there! I'm Shahinda Gamal</h1>
 <h3 align="left">Computer Engineering Student @ Ain Shams University | Full-Stack Developer | Competitive Programmer</h3>
 
