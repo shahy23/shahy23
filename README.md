@@ -10,11 +10,11 @@
 
 - :mortar_board: &nbsp;Studying **Computer Engineering** at **Ain Shams University**
 - :robot: &nbsp;Passionate about **Robotics** and building autonomous systems
-- :code: &nbsp;I’m currently practicing on **Codeforces** to sharpen my problem-solving skills
-- :web: &nbsp;Working on **Frontend Web Development** (HTML, CSS, JS, React.js)
+- :computer: &nbsp;I’m currently practicing on **Codeforces** to sharpen my problem-solving skills
+- :globe_with_meridians: &nbsp;Working on **Frontend Web Development** (HTML, CSS, JS, React.js)
 - :snake: &nbsp;Experienced in **Python** for automation and problem solving
 - :gear: &nbsp;Interested in **Low-level programming**, **MIPS architecture**, and **Microcontrollers**
-- :mailbox: &nbsp;Reach out to me on **[LinkedIn](https://www.linkedin.com/in/shahinda-gamal-576308215)**
+- :mailbox: &nbsp;Reach out to me on **[LinkedIn](https://www.linkedin.com/in/shahinda-gamal-576308215)****
 
 <br>
 
