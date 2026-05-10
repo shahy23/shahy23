@@ -1,6 +1,9 @@
 <h1 align="left">:wave: Hello there! I'm Shahinda Gamal</h1>
 <h3 align="left">Computer Engineering Student @ Ain Shams University | Competitive Programmer</h3>
 
+<p align="">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahy23&theme=tokyonight" alt="Shahinda's GitHub Streak" />
+</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shahy23&label=Profile%20views&color=0e75b6&style=flat" alt="shahy23" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/shahy23?style=flat&logo=github">
@@ -54,8 +57,10 @@
   </tr>
 </table>
 
+
+<p>  Top languages</p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahy23&theme=tokyonight" alt="Shahinda's GitHub Streak" />
+  <img src="https://github-readme-stats-shahy23.vercel.app/api/top-langs/?username=shahy23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="350" />
 </p>
 
 
