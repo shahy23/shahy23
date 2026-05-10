@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-<h2 align="left">Top Languages</h2>
+
 
 
 <p align="center">
