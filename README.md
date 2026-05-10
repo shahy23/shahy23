@@ -6,8 +6,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/shahy23?style=flat&logo=github">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahy23&show_icons=true&theme=tokyonight" alt="Shahinda's GitHub Stats" align="right" width="400" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=shahy23&show_icons=true&theme=tokyonight&count_private=true" alt="Shahinda's GitHub Stats" width="400" />
 - :mortar_board: &nbsp;Studying **Computer Engineering** at **Ain Shams University**
 - :robot: &nbsp;Passionate about **Robotics** and building autonomous systems
 - :computer: &nbsp;I’m currently practicing on **Codeforces** to sharpen my problem-solving skills
@@ -57,7 +56,7 @@
 
 <h2 align="left">Top Languages</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahy23&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahy23&layout=compact&theme=tokyonight" alt="Top Langs" width="300" />
 
 ---
 
