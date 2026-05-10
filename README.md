@@ -1,5 +1,5 @@
 <h1 align="left">:wave: Hello there! I'm Shahinda Gamal</h1>
-<h3 align="left">Computer Engineering Student @ Ain Shams University | Frontend Developer | Robotics Enthusiast | Competitive Programmer</h3>
+<h3 align="left">Computer Engineering Student @ Ain Shams University | Competitive Programmer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shahy23&label=Profile%20views&color=0e75b6&style=flat" alt="shahy23" />
