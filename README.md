@@ -54,9 +54,8 @@
   </tr>
 </table>
 
-
 <p align="center">
-  <img src="https://github-readme-stats-shahy23.vercel.app/api?username=shahy23&show_icons=true&theme=tokyonight&count_private=true" alt="Shahinda's GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahy23&theme=tokyonight" alt="Shahinda's GitHub Streak" />
 </p>
 
 
