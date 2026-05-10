@@ -1,9 +1,7 @@
 <h1 align="left">:wave: Hello there! I'm Shahinda Gamal</h1>
 <h3 align="left">Computer Engineering Student @ Ain Shams University | Competitive Programmer</h3>
 
-<p align="">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahy23&theme=tokyonight" alt="Shahinda's GitHub Streak" />
-</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shahy23&label=Profile%20views&color=0e75b6&style=flat" alt="shahy23" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/shahy23?style=flat&logo=github">
@@ -57,10 +55,19 @@
   </tr>
 </table>
 
+<p align="Center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahy23&theme=tokyonight" alt="Shahinda's GitHub Streak" />
+</p>
 
-<p>  Top languages</p>
-<p align="center">
-  <img src="https://github-readme-stats-shahy23.vercel.app/api/top-langs/?username=shahy23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="350" />
+<h2 align="left">📊 Skills & Proficiencies</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 
