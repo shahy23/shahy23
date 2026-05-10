@@ -6,7 +6,8 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/shahy23?style=flat&logo=github">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahy23&show_icons=true&theme=radical&count_private=true" alt="Shahinda's GitHub Stats" width="400" />- :mortar_board: &nbsp;Studying **Computer Engineering** at **Ain Shams University**
+
+- :mortar_board: &nbsp;Studying **Computer Engineering** at **Ain Shams University**
 - :robot: &nbsp;Passionate about **Robotics** and building autonomous systems
 - :computer: &nbsp;I’m currently practicing on **Codeforces** to sharpen my problem-solving skills
 - :globe_with_meridians: &nbsp;Working on **Frontend Web Development** (HTML, CSS, JS, React.js)
@@ -55,7 +56,6 @@
 
 <h2 align="left">Top Languages</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahy23&layout=compact&theme=radical&hide_progress=true" alt="Top Langs" width="300" />---
 
 <p align="center">
   <i>"Clean code always looks like it was written by someone who cares."</i>
